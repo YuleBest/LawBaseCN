@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "LawBaseCN V0.0.1-beta",
-  description: "中国法律知识库",
+  title: "LawBaseCN",
+  description: "中国法律法规数据库",
 
   theme,
 });
