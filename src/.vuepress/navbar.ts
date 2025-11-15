@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "所有条目",
-    icon: "lightbulb",
+    icon: "book",
     prefix: "/law/",
     link: "/law/",
   },

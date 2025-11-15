@@ -1,5 +1,5 @@
 ---
-title: 宪法历史版本
+title: 宪法修正案
 icon: "material-symbols:folder"
 ---
 
