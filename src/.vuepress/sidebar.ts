@@ -12,7 +12,6 @@ export default sidebar({
         "中华人民共和国宪法",
         {
           text: "宪法相关法",
-          link: "宪法相关法/",
           prefix: "宪法相关法/",
           collapsible: true,
           children: "structure",

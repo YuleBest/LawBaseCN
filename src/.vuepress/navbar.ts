@@ -10,6 +10,7 @@ export default navbar([
   },
   {
     text: "宪法",
+    icon: "material-symbols-light:book",
     link: "/law/中华人民共和国宪法",
     prefix: "/law/中华人民共和国宪法",
   },
