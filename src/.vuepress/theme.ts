@@ -6,7 +6,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://lawbase.cn.yule.ink",
 
-  pageInfo: ["Category", "Word"],
+  pageInfo: ["Author", "Date", "Word", "Category", "Tag"],
 
   repo: "YuleBest/LawBaseCN",
 
