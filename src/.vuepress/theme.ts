@@ -37,7 +37,7 @@ export default hopeTheme({
     attrs: true,
     codeTabs: true,
     component: true,
-    demo: true,
+    demo: false,
     figure: true,
     gfm: true,
     imgLazyload: true,
@@ -77,6 +77,14 @@ export default hopeTheme({
     },
 
     // 搜索功能配置
-    slimsearch: true,
+    search: {
+      maxSuggestions: 10,
+
+      locales: {
+        "/": {
+          placeholder: "搜索条目",
+        },
+      },
+    },
   },
 });
