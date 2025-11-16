@@ -4,6 +4,7 @@ export default sidebar({
   "/": [
     "",
     {
+      // /law/
       text: "所有条目",
       prefix: "law/",
       icon: "book",
@@ -11,12 +12,14 @@ export default sidebar({
       children: [
         "中华人民共和国宪法",
         {
+          // /law/宪法相关法
           text: "宪法相关法",
           icon: "material-symbols:folder",
           prefix: "宪法相关法/",
           collapsible: true,
           children: [
             {
+              // /law/宪法相关法/宪法历史版本
               text: "宪法历史版本",
               icon: "material-symbols:folder",
               prefix: "宪法历史版本/",
@@ -28,8 +31,8 @@ export default sidebar({
                 "中华人民共和国宪法（1978）",
               ],
             },
-
             {
+              // /law/宪法相关法/宪法修正案
               text: "宪法修正案",
               icon: "material-symbols:folder",
               prefix: "宪法修正案/",
@@ -47,6 +50,15 @@ export default sidebar({
             "中华人民共和国国务院组织法",
             "中华人民共和国全国人民代表大会组织法",
           ],
+        },
+
+        // 民法商法
+        {
+          text: "民法商法",
+          icon: "material-symbols:folder",
+          prefix: "民法商法/",
+          collapsible: true,
+          children: ["中华人民共和国民法典"],
         },
       ],
     },

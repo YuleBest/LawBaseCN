@@ -9,5 +9,11 @@ export default defineUserConfig({
   title: "LawBaseCN",
   description: "中国法律法规数据库",
 
+  markdown: {
+    toc: {
+      level: [2, 3, 4],
+    },
+  },
+
   theme,
 });

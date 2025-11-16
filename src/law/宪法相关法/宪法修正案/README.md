@@ -3,4 +3,4 @@ title: 宪法修正案
 icon: "material-symbols:folder"
 ---
 
-<Catalog/>
+<Catalog level="1"/>
