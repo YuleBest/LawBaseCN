@@ -7,17 +7,21 @@ icon: "book"
 
 ## 你可能感兴趣
 
-<VPCard
-  title="宪法"
-  link="constitution/constitution"
-  desc="一切法律制度的基础"
-/>
+<div class="vp-card-container">
 
 <VPCard
-  title="民法典"
-  link="min-fa-shang-fa/china_civil-code"
-  desc="社会生活的百科全书"
-/>
+    title="宪法"
+    link="constitution/constitution"
+    desc="一切法律制度的基础"
+  />
+
+<VPCard
+    title="民法典"
+    link="min-fa-shang-fa/china_civil-code"
+    desc="社会生活的百科全书"
+  />
+
+</div>
 
 ---
 
