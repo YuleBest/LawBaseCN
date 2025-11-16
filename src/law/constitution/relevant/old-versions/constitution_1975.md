@@ -14,7 +14,7 @@ icon: octicon:law-24
 
 ::: tip
 
-要查看现行版本《宪法》，请访问 [中华人民共和国宪法](/law/中华人民共和国宪法)
+要查看现行版本《宪法》，请访问 [中华人民共和国宪法](/law/constitution/constitution)
 
 :::
 
