@@ -1,12 +1,32 @@
 ---
-title: 所有条目
+title: 条目导航
 icon: "book"
+---
+
+---
+
+## 你可能感兴趣
+
+<VPCard
+  title="宪法"
+  link="constitution/constitution"
+  desc="一切法律制度的基础"
+/>
+
+<VPCard
+  title="民法典"
+  link="min-fa-shang-fa/china_civil-code"
+  desc="社会生活的百科全书"
+/>
+
+---
+
+<Catalog level="1" />
+
 ---
 
 ::: tip
 
-也可以使用侧边栏或搜索进行查找
+你也可以使用侧边栏或搜索功能进行查找
 
 :::
-
-<Catalog level="1"/>

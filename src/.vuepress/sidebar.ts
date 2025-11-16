@@ -5,7 +5,7 @@ export default sidebar({
     "",
     {
       // /law/
-      text: "所有条目",
+      text: "条目导航",
       prefix: "law/",
       icon: "book",
       link: "law/",
