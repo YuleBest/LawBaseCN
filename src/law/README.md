@@ -1,6 +1,6 @@
 ---
 title: 条目导航
-icon: "book"
+icon: line-md:my-location-loop
 ---
 
 ---
@@ -25,7 +25,7 @@ icon: "book"
 
 ---
 
-<Catalog level="1" />
+<Catalog base="/law/" :level="2" />
 
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: 宪法相关法
-icon: "material-symbols:folder"
+icon: line-md:folder-twotone
+index: false
+
+dir:
+  link: true
 ---
 
 <Catalog level="1"/>

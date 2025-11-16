@@ -4,7 +4,12 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://lawbase.cn.yule.ink",
+  hostname: "https://lawbase.cn.yule.ink/",
+
+  // 站点图标和 LOGO
+  favicon: "/image/favicon.png",
+  logo: "/image/logo_light.png",
+  logoDark: "/image/logo_dark.png",
 
   pageInfo: ["Category", "Author", "Date", "Tag"],
 

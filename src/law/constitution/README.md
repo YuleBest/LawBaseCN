@@ -1,6 +1,11 @@
 ---
 title: 宪法系列
-icon: "material-symbols:folder"
+icon: line-md:folder-twotone
+index: false
+
+dir:
+  order: 1
+  link: true
 ---
 
 <Catalog level="1"/>

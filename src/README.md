@@ -2,7 +2,7 @@
 
 home: true
 heroFullScreen: true
-icon: house
+icon: line-md:home-twotone
 title: 主页
 heroText: LawBaseCN
 tagline: 中国法律法规数据库

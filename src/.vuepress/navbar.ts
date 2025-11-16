@@ -6,7 +6,7 @@ export default navbar([
     text: "条目导航",
     prefix: "/law/",
     link: "/law/",
-    icon: "book",
+    icon: "line-md:my-location-loop",
   },
   "about/",
 ]);

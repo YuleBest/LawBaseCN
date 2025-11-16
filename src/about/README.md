@@ -1,6 +1,6 @@
 ---
 title: 关于本站
-icon: "ix:about"
+icon: "line-md:buy-me-a-coffee-twotone"
 ---
 
 ::: center

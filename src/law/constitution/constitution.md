@@ -15,7 +15,7 @@ tag:
     "2018年3月修订",
   ]
 
-icon: tabler:star-filled
+icon: line-md:star-filled
 order: 1
 ---
 
