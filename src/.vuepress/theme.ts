@@ -75,5 +75,8 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+
+    // 搜索功能配置
+    slimsearch: true,
   },
 });
