@@ -1,6 +1,6 @@
 ---
 title: 所有条目
-icon: book
+icon: "book"
 ---
 
 ::: tip

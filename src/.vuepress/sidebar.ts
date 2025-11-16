@@ -62,7 +62,13 @@ export default sidebar({
         },
       ],
     },
-    "",
-    "about",
+
+    {
+      // /about/
+      text: "关于本站",
+      prefix: "about/",
+      icon: "ix:about",
+      link: "about/",
+    },
   ],
 });

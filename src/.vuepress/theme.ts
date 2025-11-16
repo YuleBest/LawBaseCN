@@ -6,13 +6,13 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://lawbase.cn.yule.ink",
 
-  pageInfo: ["Author", "Date", "Word", "Category", "Tag"],
+  pageInfo: ["Category", "Author", "Date", "Tag"],
 
   repo: "YuleBest/LawBaseCN",
 
   docsDir: "src",
 
-  editLink: false, // 关闭“编辑此页”
+  editLink: true,
 
   // 导航栏
   navbar,
@@ -26,7 +26,7 @@ export default hopeTheme({
 
   // 多语言配置
   metaLocales: {
-    editLink: "",
+    editLink: "编辑此页",
   },
 
   // 实时查看任何改变。注: 这对更新性能有很大负面影响

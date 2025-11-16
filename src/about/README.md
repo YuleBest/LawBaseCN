@@ -1,8 +1,27 @@
 ---
 title: 关于本站
+icon: "ix:about"
 ---
 
 本站是一个由社区收录中国法律法规数据库。
+
+<VPCard
+  title="相关链接"
+  link="link"
+  desc="本项目所参考的资料和其他项目"
+/>
+
+<VPCard
+  title="贡献指南"
+  link="contribute"
+  desc="您的贡献会让本项目日益完善"
+/>
+
+<VPCard
+  title="开源仓库"
+  link="https://github.com/YuleBest/LawBaseCN"
+  desc="GitHub"
+/>
 
 本站的目标是收集中国法律法规的所有条目，包括法律、行政法规、地方性法规、司法解释等。建立本站的初衷是为了方便中国法律的查询和学习，我们希望通过这个数据库，帮助中国法律的使用者更方便地查询和学习中国法律。
 
