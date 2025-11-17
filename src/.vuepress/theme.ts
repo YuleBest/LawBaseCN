@@ -26,8 +26,10 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "",
-  displayFooter: false,
+  footer:
+    "依据《著作权法》第五条，本网站收录的法律法规及规范性文件不受著作权保护，您可自由查阅引用，本网站不承担使用风险",
+  copyright: false,
+  displayFooter: true,
 
   // 多语言配置
   metaLocales: {
