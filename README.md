@@ -1,6 +1,6 @@
 # LawBaseCN
 
-LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行所有法律法规条文并进行展示
+LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行的法律法规并进行展示
 
 在线浏览：[lawbase.cn.yule.ink](https://lawbase.cn.yule.ink/)
 
