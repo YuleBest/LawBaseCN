@@ -1,7 +1,7 @@
 {
   "name": "lawbasecn",
   "description": "中国法律法规数据库",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "type": "module",
   "scripts": {
