@@ -10,28 +10,30 @@ LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行所有�
 
 排序不分先后，完整带链接目录请查看 [条目全览](https://lawbase.cn.yule.ink/law/overview.html)
 
-### [宪法相关法](https://lawbase.cn.yule.ink/law/constitution/)
+### [宪法相关法](https://lawbase.cn.yule.ink/law/constitution/)（进度 12/54）
 
-- 宪法（包括现行、历史版本和宪法修正案）
-- 国家安全法
-- 国防法
-- 国歌法
-- 国籍法
-- 国务院组织法
-- 戒严法
-- 立法法
-- 全国人民代表大会组织法
-- 国旗法
-- 反分裂国家法
-- 香港特别行政区基本法
+1. 宪法（包括现行、历史版本和宪法修正案）
+2. 国家安全法
+3. 国防法
+4. 国歌法
+5. 国籍法
+6. 国务院组织法
+7. 戒严法
+8. 立法法
+9. 全国人民代表大会组织法
+10. 国旗法
+11. 反分裂国家法
+12. 香港特别行政区基本法
 
-### [民法商法](https://lawbase.cn.yule.ink/law/min-fa-shang-fa/)
+### [民法商法](https://lawbase.cn.yule.ink/law/min-fa-shang-fa/)（进度 1/25）
 
-- 民法典
+1. 民法典
 
-### [刑法](https://lawbase.cn.yule.ink/law/china_xing-fa/)
+### [刑法](https://lawbase.cn.yule.ink/law/xing-fa/)（进度 1/5）
 
-- 刑法
+1. 刑法
+
+### 行政法、经济法、社会法、诉讼与非诉讼程序法（未收录）
 
 ---
 
