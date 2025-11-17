@@ -10,6 +10,12 @@ icon: line-md:my-location-loop
 <div class="vp-card-container">
 
 <VPCard
+    title="条目全览"
+    link="overview"
+    desc="本站收录的所有条目"
+  />
+
+<VPCard
     title="宪法"
     link="constitution/constitution"
     desc="一切法律制度的基础"
@@ -21,11 +27,17 @@ icon: line-md:my-location-loop
     desc="社会生活的百科全书"
   />
 
+<VPCard
+    title="刑法"
+    link="xing-fa/china_xing-fa"
+    desc="惩治犯罪的尖刀利刃"
+  />
+
 </div>
 
 ---
 
-<Catalog base="/law/" :level="2" />
+<Catalog base="/law/" :level="1" />
 
 ---
 

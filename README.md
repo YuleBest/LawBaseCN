@@ -8,7 +8,7 @@ LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行所有�
 
 ## 已收录法律列表
 
-排序不分先后，完整带链接目录请查看 [条目导航](https://lawbase.cn.yule.ink/law/)
+排序不分先后，完整带链接目录请查看 [条目全览](https://lawbase.cn.yule.ink/law/overview.html)
 
 ### [宪法相关法](https://lawbase.cn.yule.ink/law/constitution/)
 

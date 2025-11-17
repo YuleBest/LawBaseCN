@@ -4,7 +4,7 @@ icon: line-md:folder-twotone
 index: false
 
 dir:
-  order: 3
+  order: 12
   link: true
 ---
 

@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
+import { titlePlugin } from "vuepress/markdown";
 
 export default hopeTheme({
   hostname: "https://lawbase.cn.yule.ink/",
@@ -85,7 +86,7 @@ export default hopeTheme({
 
     // 搜索功能配置
     search: {
-      maxSuggestions: 10,
+      maxSuggestions: 20,
 
       locales: {
         "/": {
