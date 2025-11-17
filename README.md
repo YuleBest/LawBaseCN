@@ -29,6 +29,10 @@ LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行所有�
 
 - 民法典
 
+### [刑法](https://lawbase.cn.yule.ink/law/china_xing-fa/)
+
+- 刑法
+
 ---
 
 ## 为什么诞生
