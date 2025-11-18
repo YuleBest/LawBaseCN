@@ -5,7 +5,7 @@ icon: "line-md:buy-me-a-coffee-twotone"
 
 ::: center
 
-<h2>LawBaseCN <Badge text="v0.0.2" type="important" vertical="middle" /></h2>
+<h2>LawBaseCN <Badge text="v0.1.0" type="important" vertical="middle" /></h2>
 
 是一个由社区驱动的中国法律法规数据库
 :::
