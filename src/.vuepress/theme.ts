@@ -94,7 +94,7 @@ export default hopeTheme({
     docsearch: {
       appId: "WVBQJCLHI3",
       apiKey: "3703b4257f0b33a1e78550da572e926c",
-      indices: ["/"],
+      indices: ["LawBaseCN"],
     },
 
     // 目录页面配置
