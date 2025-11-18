@@ -1,10 +1,12 @@
 ---
 title: 条目全览
 icon: grommet-icons:overview
-order: 1
+order: 2
 ---
 
-::: tabs
+<Catalog base="/law/" :level="3" :index="true" />
+
+<!-- ::: tabs
 
 @tab 宪法系列
 
@@ -25,4 +27,4 @@ order: 1
 Q 为什么要采取选项卡的方式来展示？
 A 因为部分目录深度大于 3，而 `Catalog` 插件最高只能展示 3 级目录，因此采取选项卡的方式可以更方便地展示不同分类的法律条文。
 
-:::
+::: -->
