@@ -15,5 +15,7 @@ export default defineUserConfig({
     },
   },
 
+  shouldPrefetch: false,
+
   theme,
 });

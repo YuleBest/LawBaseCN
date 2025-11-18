@@ -12,13 +12,16 @@ export default hopeTheme({
   logo: "/image/logo_light.png",
   logoDark: "/image/logo_dark.png",
 
+  // 页面信息
   pageInfo: ["Category", "Author", "Date", "Tag"],
 
+  // “编辑此页”配置
   repo: "YuleBest/LawBaseCN",
-
   docsDir: "src",
-
   editLink: true,
+
+  // 更新日志
+  changelog: false, // 请保持关闭（因为会占用一个标题放置）
 
   // 导航栏
   navbar,
@@ -36,6 +39,9 @@ export default hopeTheme({
   metaLocales: {
     editLink: "编辑此页",
   },
+
+  // 纯净模式（关闭特效）
+  pure: false,
 
   // 实时查看任何改变。注: 这对更新性能有很大负面影响
   // hotReload: true,
@@ -97,5 +103,34 @@ export default hopeTheme({
 
     // 目录页面配置
     catalog: {},
+
+    // PWA 配置
+    pwa: {
+      // 缓存策略
+      cacheHTML: true, // 缓存 ALL HTML 文件
+      cacheImage: true, // 缓存图片
+
+      update: "hint", // 提示用户更新
+      // base 自动附加
+      appendBase: true,
+
+      manifest: {
+        name: "LawBaseCN",
+        start_url: "/",
+
+        icons: [
+          {
+            src: "/image/logo_light.png",
+            sizes: "867x871",
+            type: "image/png",
+          },
+          {
+            src: "/image/logo_dark.png",
+            sizes: "1737x1750",
+            type: "image/png",
+          },
+        ],
+      },
+    },
   },
 });
