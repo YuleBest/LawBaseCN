@@ -91,14 +91,10 @@ export default hopeTheme({
     },
 
     // 搜索功能配置
-    search: {
-      maxSuggestions: 20,
-
-      locales: {
-        "/": {
-          placeholder: "搜索条目",
-        },
-      },
+    docsearch: {
+      appId: "WVBQJCLHI3",
+      apiKey: "3703b4257f0b33a1e78550da572e926c",
+      indices: ["/"],
     },
 
     // 目录页面配置
