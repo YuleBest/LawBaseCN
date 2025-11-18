@@ -118,12 +118,7 @@ export default hopeTheme({
         icons: [
           {
             src: "/image/logo_light.png",
-            sizes: "867x871",
-            type: "image/png",
-          },
-          {
-            src: "/image/logo_dark.png",
-            sizes: "1737x1750",
+            sizes: "24x24 48x48 72x72 96x96 128x128 256x256",
             type: "image/png",
           },
         ],
