@@ -10,9 +10,12 @@ LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行的法�
 
 排序不分先后，完整带链接目录请查看 [条目全览](https://lawbase.cn.yule.ink/law/overview.html)
 
-### [宪法相关法](https://lawbase.cn.yule.ink/law/constitution/)（进度 12/54）
+### [宪法系列](https://lawbase.cn.yule.ink/law/constitution/)（进度 12/54）
 
 1. 宪法（包括现行、历史版本和宪法修正案）
+
+#### [宪法相关法](https://lawbase.cn.yule.ink/law/constitution/relevant/)
+
 2. 国家安全法
 3. 国防法
 4. 国歌法
@@ -33,7 +36,11 @@ LawBaseCN 是一个中国法律法规数据库，旨在收集中国现行的法�
 
 1. 刑法
 
-### 行政法、经济法、社会法、诉讼与非诉讼程序法（未收录）
+### [社会法](https://lawbase.cn.yule.ink/law/sheng-huo-fa/)（进度 1/29）
+
+1. 劳动法
+
+### 行政法、经济法、诉讼与非诉讼程序法（未收录）
 
 ---
 
