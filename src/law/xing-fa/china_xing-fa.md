@@ -26,6 +26,7 @@ tag:
 
 icon: game-icons:prisoner
 order: 1
+star: 998
 ---
 
 ::: note

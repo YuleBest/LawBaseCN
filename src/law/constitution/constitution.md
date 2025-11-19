@@ -17,6 +17,8 @@ tag:
 
 icon: line-md:star-filled
 order: 1
+sticky: 100
+star: 1000
 ---
 
 ::: tip

@@ -80,8 +80,15 @@ export default hopeTheme({
     vPre: true,
   },
 
+  // 博客相关
+  blog: {
+    timeline: "中国法律法规·公布时间轴",
+  },
+
   // 插件
   plugins: {
+    blog: true,
+
     components: {
       components: ["Badge", "VPCard"],
     },

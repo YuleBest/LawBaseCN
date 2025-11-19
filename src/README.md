@@ -2,7 +2,7 @@
 
 home: true
 icon: line-md:home-twotone
-title: 主页
+shortTitle: 主页
 heroText: LawBaseCN
 tagline: 中国法律法规数据库
 
@@ -16,7 +16,7 @@ actions:
 
 - text: 开始浏览
   icon: streamline:startup-solid
-  link: law/nav
+  link: nav
   type: primary
 
 - text: 项目介绍
@@ -27,20 +27,16 @@ features:
 
 - title: 条目全览
   details: 本站收录的所有条目
-  link: law/overview
+  link: article/
 
-- title: 宪法系列
-  details: 查看「宪法系列」法律条目
-  link: law/constitution/
+- title: 分类
+  details: 查看法律条目的分类
+  link: category/
 
-- title: 民法商法
-  details: 查看「民法商法」法律条目
-  link: law/min-fa-shang-fa/
+- title: 标签
+  details: 查看法律条目的标签
+  link: tag/
 
-- title: 刑法
-  details: 查看「刑法」法律条目
-  link: law/xing-fa/
-
-- title: 社会法
-  details: 查看「社会法」法律条目
-  link: law/she-hui-fa/
+- title: 时间轴
+  details: 查看法律条目的公布时间轴
+  link: timeline/

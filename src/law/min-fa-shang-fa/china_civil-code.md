@@ -8,6 +8,8 @@ tag: ["2020年5月公布", "2021年1月施行"]
 
 icon: pepicons-print:people
 order: 1
+sticky: 100
+star: 999
 ---
 
 ::: note

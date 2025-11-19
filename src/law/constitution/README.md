@@ -1,11 +1,7 @@
 ---
 title: 宪法系列
-icon: line-md:folder-twotone
 index: false
 
 dir:
-  order: 10
-  link: true
+  order: 1
 ---
-
-<Catalog level="1"/>
