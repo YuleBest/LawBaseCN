@@ -114,7 +114,6 @@ export default hopeTheme({
       cacheHTML: true, // 缓存 ALL HTML 文件
       cacheImage: true, // 缓存图片
 
-      update: "hint", // 提示用户更新
       // base 自动附加
       appendBase: true,
 
