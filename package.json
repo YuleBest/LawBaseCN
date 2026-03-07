@@ -16,13 +16,14 @@
     "@vuepress/plugin-pwa": "2.0.0-rc.119",
     "@vuepress/plugin-search": "2.0.0-rc.118",
     "@vuepress/plugin-slimsearch": "2.0.0-rc.118",
-    "sass-embedded": "^1.93.2",
-    "vue": "^3.5.22",
+    "sass-embedded": "^1.97.3",
+    "vue": "^3.5.29",
     "vuepress": "2.0.0-rc.26",
     "vuepress-theme-hope": "2.0.0-rc.98"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
+      "@parcel/watcher",
       "esbuild",
       "nodejs-jieba"
     ],
