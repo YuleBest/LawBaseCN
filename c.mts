@@ -40,7 +40,7 @@ function processFiles(dir: string) {
         }
 
         // 核心修改：绝对不带 .html
-        finalPermalink = `/law/${dateStr}-${dateCounter[dateStr]}`;
+        finalPermalink = `/law/${dateStr}-${dateCounter[dateStr]}.html`;
       }
 
       // 强制覆盖旧的 permalink，确保全站统一
