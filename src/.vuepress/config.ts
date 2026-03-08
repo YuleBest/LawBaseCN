@@ -26,6 +26,13 @@ export default defineUserConfig({
         sourcemap: false,
         cssCodeSplit: true,
         minify: "esbuild",
+        rollupOptions: {
+          output: {
+            chunkFileNames: "assets/js/[hash].js",
+            entryFileNames: "assets/js/[hash].js",
+            assetFileNames: "assets/[ext]/[hash].[ext]",
+          },
+        },
       },
     },
   }),
