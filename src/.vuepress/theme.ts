@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 // import { titlePlugin } from "vuepress/markdown";
 
 export default hopeTheme({
-  hostname: "https://lawbase.cn.yule.ink/",
+  hostname: "https://law.yule.ink/",
 
   // 站点图标和 LOGO
   favicon: "/image/favicon.png",
