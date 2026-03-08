@@ -107,5 +107,7 @@ export default hopeTheme({
 
     // 目录页面配置
     catalog: {},
+
+    cleanUrls: true,
   },
 });

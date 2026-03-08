@@ -9,6 +9,8 @@ export default defineUserConfig({
   title: "LawBaseCN",
   description: "中国法律法规数据库",
 
+  pagePatterns: ["**/*.md", "!.vuepress", "!node_modules"],
+
   markdown: {
     toc: {
       level: [2, 3, 4, 5, 6, 7],
