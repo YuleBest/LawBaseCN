@@ -2,7 +2,7 @@
 title: 法律
 icon: 'temaki:lawyer'
 index: false
-permalink: /law/00000000-1.html
+permalink: /law/
 ---
 
-<Catalog base="/law/" :level="1" />
+<Catalog base="/law/" :level="2" />
