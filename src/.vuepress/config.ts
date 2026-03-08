@@ -1,11 +1,11 @@
 import { defineUserConfig } from "vuepress";
+import { viteBundler } from "@vuepress/bundler-vite";
 
 import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-
   title: "LawBaseCN",
   description: "中国法律法规数据库",
 
@@ -18,4 +18,13 @@ export default defineUserConfig({
   shouldPrefetch: false,
 
   theme,
+
+  bundler: viteBundler({
+    viteOptions: {
+      build: {
+        sourcemap: false,
+        cssCodeSplit: true,
+      },
+    },
+  }),
 });
