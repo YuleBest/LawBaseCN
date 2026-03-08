@@ -1,0 +1,3 @@
+[submodule "src/law"]
+	path = src/law
+	url = git@github.com:YuleBest/LawBaseCN-Laws.git
