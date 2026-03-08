@@ -15,8 +15,9 @@ export default defineUserConfig({
     },
   },
 
-  shouldPrefetch: false,
+  cache: "./cache",
 
+  shouldPrefetch: false,
   theme,
 
   bundler: viteBundler({
@@ -24,6 +25,7 @@ export default defineUserConfig({
       build: {
         sourcemap: false,
         cssCodeSplit: true,
+        minify: "esbuild",
       },
     },
   }),

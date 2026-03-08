@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { titlePlugin } from "vuepress/markdown";
+// import { titlePlugin } from "vuepress/markdown";
 
 export default hopeTheme({
   hostname: "https://lawbase.cn.yule.ink/",
@@ -58,7 +58,7 @@ export default hopeTheme({
     imgSize: true,
     include: true,
     mark: true,
-    plantuml: true,
+    plantuml: false,
     spoiler: true,
     stylize: [
       {
@@ -107,28 +107,5 @@ export default hopeTheme({
 
     // 目录页面配置
     catalog: {},
-
-    // PWA 配置
-    pwa: {
-      // 缓存策略
-      cacheHTML: true, // 缓存 ALL HTML 文件
-      cacheImage: true, // 缓存图片
-
-      // base 自动附加
-      appendBase: true,
-
-      manifest: {
-        name: "LawBaseCN",
-        start_url: "/",
-
-        icons: [
-          {
-            src: "/image/logo_light.png",
-            sizes: "24x24 48x48 72x72 96x96 128x128 256x256",
-            type: "image/png",
-          },
-        ],
-      },
-    },
   },
 });
